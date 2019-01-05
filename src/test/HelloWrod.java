@@ -1,10 +1,11 @@
 package test;
 
-public class test {
+public class HelloWrod {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.println("Œ“ ±≤‚ ‘");
+
+		System.out.println("woshihuangjinxian");
 	}
 
 }
